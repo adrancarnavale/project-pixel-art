@@ -1,6 +1,6 @@
 # Project: Pixel Art
 
-Pixel Art was the second project developed by me while studying in [Trybe](https://www.betrybe.com/).
+Project developed while studying in [Trybe](https://www.betrybe.com/).
 
 ### Technologies and tools used
 - HTML
