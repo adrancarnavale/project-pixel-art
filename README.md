@@ -6,6 +6,7 @@ Project developed while studying in [Trybe](https://www.betrybe.com/).
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ### Project objective
 
